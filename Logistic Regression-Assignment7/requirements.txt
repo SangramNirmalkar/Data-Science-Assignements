@@ -1,5 +1,5 @@
-streamlit
-pandas
-scikit-learn
-numpy
-pickle
+!pip install streamlit
+!pip install pandas
+1pip install scikit-learn
+!pip install numpy
+!pip install pickle
